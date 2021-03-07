@@ -1,2 +1,2 @@
-# Pr-ctica
+# Practica
 Módulo 2
